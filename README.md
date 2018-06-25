@@ -13,4 +13,4 @@ This allows users to create a grid of squares representing their design, and app
 
 ## Completed Project
 
-For the completed project, check it out in my [GitHub Page](https://github.com/Onyiih/Pixel-Art-Maker.git).
+For the completed project, check it out in my [GitHub Page](http://Onyiih.github.io/Pixel-Art-Maker).
