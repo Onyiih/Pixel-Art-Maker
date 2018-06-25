@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [About](#about)
-* [Completed Project](#completed project)
+* [Completed Project](#completedProject)
 
 ## About
 
